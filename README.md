@@ -7,8 +7,10 @@ Simply include the script and the style in your header, and then add a <span> wi
 <html>
   <head>
   ...
+  <link rel="stylesheet" type="text/css" href="css/ref.min.css" />
+  ...
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  <script type="text/javascript" src="js/ref.js"></script>
+  <script type="text/javascript" src="js/ref.min.js"></script>
   ...
   </head>
   <body>
